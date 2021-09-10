@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: a96799f2f5030ca4690f1efdd83f8fea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5513410008669353197
+    second: Aqualtum-Letters_0
+  - first:
+      213: -7503816056875480763
+    second: Aqualtum-Letters_1
+  - first:
+      213: -5290177259555974788
+    second: Aqualtum-Letters_2
+  - first:
+      213: -170905362266376874
+    second: Aqualtum-Letters_3
+  - first:
+      213: -4324065022756243971
+    second: Aqualtum-Letters_4
+  - first:
+      213: 2917747071480437898
+    second: Aqualtum-Letters_5
+  - first:
+      213: 4635035796582099870
+    second: Aqualtum-Letters_6
+  - first:
+      213: 4846287125715460232
+    second: Aqualtum-Letters_7
+  - first:
+      213: 6793232570960854453
+    second: Aqualtum-Letters_8
+  - first:
+      213: 335193617923210833
+    second: Aqualtum-Letters_9
+  - first:
+      213: 1218199706865583540
+    second: Aqualtum-Letters_10
+  - first:
+      213: 7586750037770822569
+    second: Aqualtum-Letters_11
+  - first:
+      213: -1500447905312266905
+    second: Aqualtum-Letters_12
+  - first:
+      213: -4099889316706010517
+    second: Aqualtum-Letters_13
+  - first:
+      213: 725521387332103367
+    second: Aqualtum-Letters_14
+  - first:
+      213: 7799400520627025252
+    second: Aqualtum-Letters_15
+  - first:
+      213: -1422872633064393467
+    second: Aqualtum-Letters_16
+  - first:
+      213: -8301997760116848597
+    second: Aqualtum-Letters_17
+  - first:
+      213: -2551232355868412587
+    second: Aqualtum-Letters_18
+  - first:
+      213: 3222542408603772224
+    second: Aqualtum-Letters_19
+  - first:
+      213: 977133006368493912
+    second: Aqualtum-Letters_20
+  - first:
+      213: -2282745548044432971
+    second: Aqualtum-Letters_21
+  - first:
+      213: 9998744193039039
+    second: Aqualtum-Letters_22
+  - first:
+      213: 3899576277381821079
+    second: Aqualtum-Letters_23
+  - first:
+      213: -6576409108736519827
+    second: Aqualtum-Letters_24
+  - first:
+      213: 8614072008306486993
+    second: Aqualtum-Letters_25
+  - first:
+      213: 2905345533189333509
+    second: Aqualtum-Letters_26
+  - first:
+      213: 7142992902083535131
+    second: Aqualtum-Letters_27
+  - first:
+      213: 364895877422279602
+    second: Aqualtum-Letters_28
+  - first:
+      213: 3847995370209882613
+    second: Aqualtum-Letters_29
+  - first:
+      213: -7223291322627511016
+    second: Aqualtum-Letters_30
+  - first:
+      213: 329993028672457090
+    second: Aqualtum-Letters_31
+  - first:
+      213: -4629897804408149115
+    second: Aqualtum-Letters_32
+  - first:
+      213: 6512013078653569312
+    second: Aqualtum-Letters_33
+  - first:
+      213: -3843424632669086180
+    second: Aqualtum-Letters_34
+  - first:
+      213: -2329889868730776204
+    second: Aqualtum-Letters_35
+  - first:
+      213: -3210714256936908922
+    second: Aqualtum-Letters_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aqualtum-Letters_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f1db0131938c40800000000000000
+      internalID: 5513410008669353197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549801e9d071dd790800000000000000
+      internalID: -7503816056875480763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71115d9fc38596b0800000000000000
+      internalID: -5290177259555974788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65537ef7a72d0adf0800000000000000
+      internalID: -170905362266376874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53cec85c5ddf3c0800000000000000
+      internalID: -4324065022756243971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c170ca08bed7820800000000000000
+      internalID: 2917747071480437898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bee70ef74f25040800000000000000
+      internalID: 4635035796582099870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a1dfc678714340800000000000000
+      internalID: 4846287125715460232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 175
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3cbcf709664e50800000000000000
+      internalID: 6793232570960854453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7a4fc1d8d6a400800000000000000
+      internalID: 335193617923210833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 126
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54539dd2ae7e010800000000000000
+      internalID: 1218199706865583540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 126
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e20986fc894960800000000000000
+      internalID: 7586750037770822569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 126
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76522ef64965d2be0800000000000000
+      internalID: -1500447905312266905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 126
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab15b73644a17c0800000000000000
+      internalID: -4099889316706010517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 126
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce0e89bd1911a00800000000000000
+      internalID: 725521387332103367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 72
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46578f453790d3c60800000000000000
+      internalID: 7799400520627025252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 72
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505729101e0f04ce0800000000000000
+      internalID: -1422872633064393467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 72
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288526e50169cc80800000000000000
+      internalID: -8301997760116848597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_18
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 72
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555faf870b3389cd0800000000000000
+      internalID: -2551232355868412587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 72
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a5723f35c8bc20800000000000000
+      internalID: 3222542408603772224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 72
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85157eeca497f8d00800000000000000
+      internalID: 977133006368493912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 72
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90530c40f0250e0800000000000000
+      internalID: -2282745548044432971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 72
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba73db0ec5832000800000000000000
+      internalID: 9998744193039039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 72
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79232e3a6f31e1630800000000000000
+      internalID: 3899576277381821079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_24
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 72
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61dd1842c6ebb4a0800000000000000
+      internalID: -6576409108736519827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 174
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de6ebc2ad45b8770800000000000000
+      internalID: 8614072008306486993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 22
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a4878e5cd15820800000000000000
+      internalID: 2905345533189333509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 22
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1163d10332012360800000000000000
+      internalID: 7142992902083535131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 22
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb62c10ede501500800000000000000
+      internalID: 364895877422279602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 22
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f135b2d663d66530800000000000000
+      internalID: 3847995370209882613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 22
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d20ad00d6b1cb90800000000000000
+      internalID: -7223291322627511016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 22
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289806449ee549400800000000000000
+      internalID: 329993028672457090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 23
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b24e52a7c4fbfb0800000000000000
+      internalID: -4629897804408149115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 23
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02908d594615f5a50800000000000000
+      internalID: 6512013078653569312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 23
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed5c0f8a969aac0800000000000000
+      internalID: -3843424632669086180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 23
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475458832819aafd0800000000000000
+      internalID: -2329889868730776204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aqualtum-Letters_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 23
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6874ef7f4604173d0800000000000000
+      internalID: -3210714256936908922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

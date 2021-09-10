@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4877246517330499849
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4877246517330499851}
+  - component: {fileID: 4877246517330499850}
+  m_Layer: 0
+  m_Name: audioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4877246517330499851
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4877246517330499849}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 417.47357, y: 538.51196, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4877246517330499850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4877246517330499849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb6255ed0fe2457cae19a8b361adfa3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: ssJingle
+    clip: {fileID: 8300000, guid: eabb759c77431374eb12614f25a26354, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: combo
+    clip: {fileID: 8300000, guid: 73c922a4afd31414cae367c6497e523e, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: hit
+    clip: {fileID: 8300000, guid: e418ad814bbc045589e516600893f49b, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: pop
+    clip: {fileID: 8300000, guid: ca7f058d9f00640569c4180473e4f486, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: boatShot
+    clip: {fileID: 8300000, guid: 1467a0bfe1fa84e40b13c44876ca5f7c, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: buttonBack
+    clip: {fileID: 8300000, guid: 98541ed7bf87d46fc9288693c8367fb7, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: buttonGo
+    clip: {fileID: 8300000, guid: e7f0f7970d6864e60998240e6c60285d, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: dispense
+    clip: {fileID: 8300000, guid: e64ae84e31f484850b5a5e8da497114b, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: tide
+    clip: {fileID: 8300000, guid: f735bb5244f094f9e83bb052323a7a7a, type: 3}
+    loop: 0
+    mute: 0
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}
+  - name: waves
+    clip: {fileID: 8300000, guid: 5fa0c27d24a944959b50a6b3ab2de4a1, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: seagull1
+    clip: {fileID: 8300000, guid: b45d8c0ab4c7a43d2b9e67928e2e4230, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: seagull2
+    clip: {fileID: 8300000, guid: c78bb200d29374a77a7d7176a94c196d, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: seagull3
+    clip: {fileID: 8300000, guid: 2663254eef39741ee9ea44b83cae1e10, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: drop
+    clip: {fileID: 8300000, guid: f44b3dc3c799843e4aebbdb536b269d5, type: 3}
+    loop: 0
+    mute: 0
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: gameOver
+    clip: {fileID: 8300000, guid: 6852bd6d8eea84c41ac9f4fe3b32652f, type: 3}
+    loop: 0
+    mute: 0
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}
+  - name: brighterGo
+    clip: {fileID: 8300000, guid: d3cd290d930374dd6b68475aa8ac1a26, type: 3}
+    loop: 0
+    mute: 0
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}

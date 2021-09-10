@@ -1,0 +1,1582 @@
+fileFormatVersion: 2
+guid: 61b47d6f5e62d48d7b891354678ef0b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8562023467501979431
+    second: newBubbleCombos_0
+  - first:
+      213: -3631023364439862582
+    second: newBubbleCombos_1
+  - first:
+      213: 2542034517758690279
+    second: newBubbleCombos_2
+  - first:
+      213: -5627728600627826888
+    second: newBubbleCombos_3
+  - first:
+      213: -1331002596162719039
+    second: newBubbleCombos_4
+  - first:
+      213: 2808953726155774095
+    second: newBubbleCombos_5
+  - first:
+      213: 1873923105445827026
+    second: newBubbleCombos_6
+  - first:
+      213: 8966466474794875877
+    second: newBubbleCombos_7
+  - first:
+      213: 3501025625566686120
+    second: newBubbleCombos_8
+  - first:
+      213: -7212286611490895742
+    second: newBubbleCombos_9
+  - first:
+      213: -5962680008499752082
+    second: newBubbleCombos_10
+  - first:
+      213: 8024651210892975439
+    second: newBubbleCombos_11
+  - first:
+      213: -249613635302309214
+    second: newBubbleCombos_12
+  - first:
+      213: -5431026846342995717
+    second: newBubbleCombos_13
+  - first:
+      213: 3135591473478134172
+    second: newBubbleCombos_14
+  - first:
+      213: 1109751972737300747
+    second: newBubbleCombos_15
+  - first:
+      213: 634289726201451760
+    second: newBubbleCombos_16
+  - first:
+      213: 8256647374404282730
+    second: newBubbleCombos_17
+  - first:
+      213: 8749891914357698940
+    second: newBubbleCombos_18
+  - first:
+      213: 7010779657168539567
+    second: newBubbleCombos_19
+  - first:
+      213: 2537894438405989377
+    second: newBubbleCombos_20
+  - first:
+      213: 1584518335705077396
+    second: newBubbleCombos_21
+  - first:
+      213: -8208707970957437493
+    second: newBubbleCombos_22
+  - first:
+      213: 3164348619470394846
+    second: newBubbleCombos_23
+  - first:
+      213: -2010704959591015784
+    second: newBubbleCombos_24
+  - first:
+      213: -4579113627175725622
+    second: newBubbleCombos_25
+  - first:
+      213: -7625876406772635008
+    second: newBubbleCombos_26
+  - first:
+      213: 8594291416873193514
+    second: newBubbleCombos_27
+  - first:
+      213: -669039980696679419
+    second: newBubbleCombos_28
+  - first:
+      213: -3642725267211649605
+    second: newBubbleCombos_29
+  - first:
+      213: 4531906039845027854
+    second: newBubbleCombos_30
+  - first:
+      213: -5139253915067625634
+    second: newBubbleCombos_31
+  - first:
+      213: 3254262486480606621
+    second: newBubbleCombos_32
+  - first:
+      213: -8765063599656814251
+    second: newBubbleCombos_33
+  - first:
+      213: 6311879997364723162
+    second: newBubbleCombos_34
+  - first:
+      213: 144074506835125687
+    second: newBubbleCombos_35
+  - first:
+      213: 8057323042018370487
+    second: newBubbleCombos_36
+  - first:
+      213: 6111290206997144283
+    second: newBubbleCombos_37
+  - first:
+      213: 1348545792351764311
+    second: newBubbleCombos_38
+  - first:
+      213: -1009154566636576453
+    second: newBubbleCombos_39
+  - first:
+      213: 1315872355554802911
+    second: newBubbleCombos_40
+  - first:
+      213: -4683622546267910932
+    second: newBubbleCombos_41
+  - first:
+      213: 2525270967845341632
+    second: newBubbleCombos_42
+  - first:
+      213: 2178835159798141475
+    second: newBubbleCombos_43
+  - first:
+      213: 5686089099666621320
+    second: newBubbleCombos_44
+  - first:
+      213: 3643367220116677161
+    second: newBubbleCombos_45
+  - first:
+      213: -8388214476726528689
+    second: newBubbleCombos_46
+  - first:
+      213: -8468459777998423022
+    second: newBubbleCombos_47
+  - first:
+      213: -976044064262855373
+    second: newBubbleCombos_48
+  - first:
+      213: -1732660442787382124
+    second: newBubbleCombos_49
+  - first:
+      213: 3372567850277578768
+    second: newBubbleCombos_50
+  - first:
+      213: -2330133345320180701
+    second: newBubbleCombos_51
+  - first:
+      213: 8087898415740657168
+    second: newBubbleCombos_52
+  - first:
+      213: -2147372686837488695
+    second: newBubbleCombos_53
+  - first:
+      213: -836762605217591357
+    second: newBubbleCombos_54
+  - first:
+      213: -6219893745681175830
+    second: newBubbleCombos_55
+  - first:
+      213: -6301927367533088371
+    second: newBubbleCombos_56
+  - first:
+      213: 7587251831895113137
+    second: newBubbleCombos_57
+  - first:
+      213: -4098742368252160108
+    second: newBubbleCombos_58
+  - first:
+      213: 1050272993896625464
+    second: newBubbleCombos_59
+  - first:
+      213: 1893857482375721548
+    second: newBubbleCombos_60
+  - first:
+      213: -1649364740789304036
+    second: newBubbleCombos_61
+  - first:
+      213: -7303908291939370848
+    second: newBubbleCombos_62
+  - first:
+      213: 3805328366045273354
+    second: newBubbleCombos_63
+  - first:
+      213: -3048162688894224331
+    second: newBubbleCombos_64
+  - first:
+      213: -1138445943719212043
+    second: newBubbleCombos_65
+  - first:
+      213: 430242149205602250
+    second: newBubbleCombos_66
+  - first:
+      213: -9108786474960025766
+    second: newBubbleCombos_67
+  - first:
+      213: -3684231543703515928
+    second: newBubbleCombos_68
+  - first:
+      213: -4560879317613190769
+    second: newBubbleCombos_69
+  - first:
+      213: -6619961460751947873
+    second: newBubbleCombos_70
+  - first:
+      213: 6223810985390492390
+    second: newBubbleCombos_71
+  - first:
+      213: 1930863050071049976
+    second: newBubbleCombos_72
+  - first:
+      213: 3076636025957612494
+    second: newBubbleCombos_73
+  - first:
+      213: 8731277492449177367
+    second: newBubbleCombos_74
+  - first:
+      213: -445217185787262824
+    second: newBubbleCombos_75
+  - first:
+      213: 8269981968381658791
+    second: newBubbleCombos_76
+  - first:
+      213: -2602988873772484549
+    second: newBubbleCombos_77
+  - first:
+      213: 809107402650184747
+    second: newBubbleCombos_78
+  - first:
+      213: 1558125650221424254
+    second: newBubbleCombos_79
+  - first:
+      213: -519515859782941235
+    second: newBubbleCombos_80
+  - first:
+      213: 6481964337273576021
+    second: newBubbleCombos_81
+  - first:
+      213: -1192613861263925049
+    second: newBubbleCombos_82
+  - first:
+      213: 1948544861655345920
+    second: newBubbleCombos_83
+  - first:
+      213: 3740338216525473401
+    second: newBubbleCombos_84
+  - first:
+      213: 5701435597408990716
+    second: newBubbleCombos_85
+  - first:
+      213: 6414594176853432764
+    second: newBubbleCombos_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newBubbleCombos_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727830beafa62d670800000000000000
+      internalID: 8562023467501979431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac21b6fec730c9dc0800000000000000
+      internalID: -3631023364439862582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c9c5fcee174320800000000000000
+      internalID: 2542034517758690279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fa54b97aa46e1b0800000000000000
+      internalID: -5627728600627826888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23994d034578de0800000000000000
+      internalID: -1331002596162719039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88560e08886bf620800000000000000
+      internalID: 2808953726155774095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1de7cc223810a10800000000000000
+      internalID: 1873923105445827026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebf890a0c94f6c70800000000000000
+      internalID: 8966466474794875877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab2179d144269030800000000000000
+      internalID: 3501025625566686120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28887c70a8fc8eb90800000000000000
+      internalID: -7212286611490895742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e639c08bf1e404da0800000000000000
+      internalID: -5962680008499752082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1fa782c94d5f60800000000000000
+      internalID: 8024651210892975439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a246b0a8b1398cf0800000000000000
+      internalID: -249613635302309214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ad1aabdd11a4b0800000000000000
+      internalID: -5431026846342995717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99686105dbd38b20800000000000000
+      internalID: 3135591473478134172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09bbcb1a81a66f00800000000000000
+      internalID: 1109751972737300747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4dae635237dc800800000000000000
+      internalID: 634289726201451760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69670b9a01859270800000000000000
+      internalID: 8256647374404282730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c717a52565cdd6970800000000000000
+      internalID: 8749891914357698940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc01814fa4b4160800000000000000
+      internalID: 7010779657168539567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104e0ae9b89683320800000000000000
+      internalID: 2537894438405989377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4965bcbf7075df510800000000000000
+      internalID: 1584518335705077396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc51a2e879fc41e80800000000000000
+      internalID: -8208707970957437493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d701dd460aeb20800000000000000
+      internalID: 3164348619470394846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a167f0e7a8814e0800000000000000
+      internalID: -2010704959591015784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac55a02da68b370c0800000000000000
+      internalID: -4579113627175725622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ae849cfc17b2690800000000000000
+      internalID: -7625876406772635008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a205ae6528e054770800000000000000
+      internalID: 8594291416873193514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c4a0aaea717b6f0800000000000000
+      internalID: -669039980696679419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd72816ba0727dc0800000000000000
+      internalID: -3642725267211649605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00096c388094ee30800000000000000
+      internalID: 4531906039845027854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fcbdd0bc3bda8b0800000000000000
+      internalID: -5139253915067625634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955e885d76792d20800000000000000
+      internalID: 3254262486480606621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559bfbc681d3c5680800000000000000
+      internalID: -8765063599656814251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add51d37a6d489750800000000000000
+      internalID: 6311879997364723162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e819200bdff100800000000000000
+      internalID: 144074506835125687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b323100e9c51df60800000000000000
+      internalID: 8057323042018370487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26363701aafc450800000000000000
+      internalID: 6111290206997144283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7974d04ff6b210800000000000000
+      internalID: 1348545792351764311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e924b443cef1f0800000000000000
+      internalID: -1009154566636576453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb9928feae24210800000000000000
+      internalID: 1315872355554802911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc0bbeb1e600fb0800000000000000
+      internalID: -4683622546267910932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94708d0909b0320800000000000000
+      internalID: 2525270967845341632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32256eba807cc3e10800000000000000
+      internalID: 2178835159798141475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88389d2f8eb09ee40800000000000000
+      internalID: 5686089099666621320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9226b5dee27df8230800000000000000
+      internalID: 3643367220116677161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f451de64063179b80800000000000000
+      internalID: -8388214476726528689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 8
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c78b123bcf97a80800000000000000
+      internalID: -8468459777998423022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 8
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335eb7848156472f0800000000000000
+      internalID: -976044064262855373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 8
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c794fd18a54f7e0800000000000000
+      internalID: -1732660442787382124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 8
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a2b85794cdce20800000000000000
+      internalID: 3372567850277578768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_51
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324e5e86114b9afd0800000000000000
+      internalID: -2330133345320180701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 144
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150338c1874c19e0800000000000000
+      internalID: -1649364740789304036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a87ce23b1e43aa90800000000000000
+      internalID: -7303908291939370848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newBubbleCombos_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 98
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d98d7ccfd3fc430800000000000000
+      internalID: 3805328366045273354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

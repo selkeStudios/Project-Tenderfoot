@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 2de8ff6a7a95e4f39954078ec7761053
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3341843616238697982
+    second: scoreImpact_0
+  - first:
+      213: 1824375513569290505
+    second: scoreImpact_1
+  - first:
+      213: 2343510651565504358
+    second: scoreImpact_2
+  - first:
+      213: -5403314148476657716
+    second: scoreImpact_3
+  - first:
+      213: 4013671969289183250
+    second: scoreImpact_4
+  - first:
+      213: 7973998666558079856
+    second: scoreImpact_5
+  - first:
+      213: 661358769171145121
+    second: scoreImpact_6
+  - first:
+      213: 521838631196915642
+    second: scoreImpact_7
+  - first:
+      213: -2070022612636891883
+    second: scoreImpact_8
+  - first:
+      213: -7235197410101407600
+    second: scoreImpact_9
+  - first:
+      213: 6810833367387312981
+    second: scoreImpact_10
+  - first:
+      213: -4254464176546649870
+    second: scoreImpact_11
+  - first:
+      213: 1070907542754093595
+    second: scoreImpact_12
+  - first:
+      213: -5212770373816270613
+    second: scoreImpact_13
+  - first:
+      213: -5972852135654465652
+    second: scoreImpact_14
+  - first:
+      213: 7618531920849154396
+    second: scoreImpact_15
+  - first:
+      213: -4012990908457049423
+    second: scoreImpact_16
+  - first:
+      213: -333015679542889793
+    second: scoreImpact_17
+  - first:
+      213: -3601677584708709313
+    second: scoreImpact_18
+  - first:
+      213: 5985904253351013099
+    second: scoreImpact_19
+  - first:
+      213: 2589951936490039256
+    second: scoreImpact_20
+  - first:
+      213: 2630063390924401036
+    second: scoreImpact_21
+  - first:
+      213: 4083617190358301684
+    second: scoreImpact_22
+  - first:
+      213: -4629550557857900856
+    second: Empty
+  - first:
+      213: 4399663774421690780
+    second: scoreImpact_24
+  - first:
+      213: -102230844082893355
+    second: scoreImpact_25
+  - first:
+      213: -6485782197984946653
+    second: scoreImpact_26
+  - first:
+      213: 9099430149428093546
+    second: scoreImpact_27
+  - first:
+      213: 6409624250765042011
+    second: scoreImpact_28
+  - first:
+      213: -4789853472791641633
+    second: scoreImpact_29
+  - first:
+      213: -8456800193627686385
+    second: scoreImpact_30
+  - first:
+      213: -4399749591286038844
+    second: scoreImpact_31
+  - first:
+      213: -1449483420429871637
+    second: scoreImpact_32
+  - first:
+      213: -1890453358182721785
+    second: scoreImpact_33
+  - first:
+      213: 1110046446370807095
+    second: scoreImpact_34
+  - first:
+      213: -928118177799699410
+    second: scoreImpact_35
+  - first:
+      213: -3080524594563628823
+    second: scoreImpact_36
+  - first:
+      213: -7860039469077435408
+    second: scoreImpact_37
+  - first:
+      213: -6891390275427205304
+    second: scoreImpact_38
+  - first:
+      213: -7645327347899986833
+    second: scoreImpact_39
+  - first:
+      213: -7204560973201519582
+    second: scoreImpact_40
+  - first:
+      213: -6578629077703945816
+    second: scoreImpact_41
+  - first:
+      213: -4758324093410725969
+    second: scoreImpact_42
+  - first:
+      213: 670482781421277326
+    second: scoreImpact_43
+  - first:
+      213: -3620158531621027560
+    second: scoreImpact_44
+  - first:
+      213: 5871243138342480270
+    second: scoreImpact_45
+  - first:
+      213: 2083555357173758440
+    second: scoreImpact_46
+  - first:
+      213: 5039159739242214005
+    second: scoreImpact_47
+  - first:
+      213: 9091905581387642978
+    second: scoreImpact_48
+  - first:
+      213: -7303068357415885435
+    second: scoreImpact_49
+  - first:
+      213: -1230983052925678761
+    second: scoreImpact_50
+  - first:
+      213: -2542455211302698465
+    second: scoreImpact_51
+  - first:
+      213: 5885895886654743579
+    second: scoreImpact_52
+  - first:
+      213: -4738346122781534778
+    second: scoreImpact_53
+  - first:
+      213: -1289893289060012920
+    second: scoreImpact_54
+  - first:
+      213: 7992100408244649276
+    second: scoreImpact_55
+  - first:
+      213: -3210798831354049868
+    second: scoreImpact_56
+  - first:
+      213: 2112133972713305162
+    second: scoreImpact_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scoreImpact_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2028f27dfe26f91d0800000000000000
+      internalID: -3341843616238697982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 75
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e7371ddb715910800000000000000
+      internalID: 1824375513569290505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f7e96582d58020800000000000000
+      internalID: 2343510651565504358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd432f8629305b0800000000000000
+      internalID: -5403314148476657716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ac66046d63b730800000000000000
+      internalID: 4013671969289183250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 51
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07302a70a8559ae60800000000000000
+      internalID: 7973998666558079856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 51
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a12989eb4e9d2900800000000000000
+      internalID: 661358769171145121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab771926871fd3700800000000000000
+      internalID: 521838631196915642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 51
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51580c8b66dc543e0800000000000000
+      internalID: -2070022612636891883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090541b0a4a679b90800000000000000
+      internalID: -7235197410101407600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5539f7fbcd0f48e50800000000000000
+      internalID: 6810833367387312981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ef4f5f5b15f4c0800000000000000
+      internalID: -4254464176546649870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ae4297cb0acde00800000000000000
+      internalID: 1070907542754093595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04005a6f488a7b0800000000000000
+      internalID: -5212770373816270613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd16ec0aa2c1da0800000000000000
+      internalID: -5972852135654465652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c513034da667ab960800000000000000
+      internalID: 7618531920849154396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2ab8ec70efe48c0800000000000000
+      internalID: -4012990908457049423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f53cf004e06bf0800000000000000
+      internalID: -333015679542889793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3453f7b155440ec0800000000000000
+      internalID: -3601677584708709313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 16
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaac782434321350800000000000000
+      internalID: 5985904253351013099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e2d7609b51f320800000000000000
+      internalID: 2589951936490039256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89eec828bcdf7420800000000000000
+      internalID: 2630063390924401036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreImpact_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 16
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb3cfdd23ceba830800000000000000
+      internalID: 4083617190358301684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 72
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61b29cb4880cfb0800000000000000
+      internalID: -4629550557857900856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
